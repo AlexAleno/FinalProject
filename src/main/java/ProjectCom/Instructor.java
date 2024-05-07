@@ -4,9 +4,8 @@ public class Instructor extends Person{
     private String officeNumber;
 
     public Instructor(String name, String familyName, String officeNumber) {
+        super(name, familyName);
         this.officeNumber = officeNumber;
-        super.setName(name);
-        super.setFamilyName(familyName);
     }
 
     public String getOfficeNumber() {

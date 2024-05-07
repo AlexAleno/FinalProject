@@ -4,6 +4,11 @@ public abstract class Person {
     private String name;
     private String familyName;
 
+    public Person(String name, String familyName) {
+        this.name = name;
+        this.familyName = familyName;
+    }
+
     public String getName() {
         return name;
     }
