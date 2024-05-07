@@ -1,0 +1,12 @@
+SOEN123 Maria Wise A231
+The HTML PocketGuide
+Bruce Hyslop
+COMP101 Smith John B205
+Introduction to Computer Science
+David I. Schneider
+MATH202 Johnson Emily C112
+Calculus: Early Transcendentals
+James Stewart
+ECON301 Lee Michael D305
+Principles of Macroeconomics
+N. Gregory Mankiw
